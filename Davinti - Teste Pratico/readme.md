@@ -10,4 +10,4 @@ C# Razor Pages para entregar rapidamente uma aplicação front + back com integr
 
 * Dapper 
 * MySQLConnector
-* .NET 9
+* .NET 8
