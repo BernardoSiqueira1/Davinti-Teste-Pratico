@@ -1,0 +1,82 @@
+@page "/contatos"
+@using Davinti___Teste_Pratico.Domain
+@model Davinti___Teste_Pratico.Pages.BuscarContato
+
+@{
+    Layout = "Shared/_Layout";
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <title>Buscar ou Listar Contatos</title>
+</head>
+<body>
+<div>
+    <h1>Buscar/Listar Contatos</h1>
+
+    <form method="post">
+        <input asp-for="TermoBusca" placeholder="Buscar por nome ou telefone" class="form-control" />
+        <br />
+        <button type="submit" class="btn btn-primary">Buscar</button>
+    </form>
+
+    <br />
+
+    @if (Model.ContatosEncontrados != null && Model.ContatosEncontrados.Any())
+    {
+        <table class="table table-bordered">
+            <thead>
+            <tr>
+                <th>ID</th>
+                <th>Nome</th>
+                <th>Idade</th>
+                <th>Telefones</th>
+                <th>Ações</th>
+            </tr>
+            </thead>
+            <tbody>
+            @foreach (var contato in Model.ContatosEncontrados)
+            {
+                <tr>
+                    <td>@contato.Id</td>
+                    <td>@contato.Nome</td>
+                    <td>@contato.Idade</td>
+                    <td>
+                        @if (contato.Telefones != null && contato.Telefones.Any())
+                        {
+                            @foreach (var tel in contato.Telefones)
+                            {
+                                <span>@tel.NumeroContato</span><br />
+                            }
+                        }
+                        else
+                        {
+                            <span>—</span>
+                        }
+                    </td>
+                    <td>
+                        <a asp-page="/Contatos/Editar" asp-route-id="@contato.Id" class="btn btn-warning btn-sm">
+                            Alterar
+                        </a>
+                        
+                        <form method="post" asp-page-handler="Excluir" asp-route-id="@contato.Id" style="display:inline;">
+                            <button type="submit" class="btn btn-danger btn-sm"
+                                    onclick="return confirm('Tem certeza que quer excluir este contato?');">
+                                Excluir
+                            </button>
+                        </form>
+                    </td>
+                </tr>
+            }
+            </tbody>
+        </table>
+    }
+    else if (!string.IsNullOrWhiteSpace(Model.TermoBusca))
+    {
+        <p>Nenhum contato encontrado para "@Model.TermoBusca".</p>
+    }
+</div>
+</body>
+</html>

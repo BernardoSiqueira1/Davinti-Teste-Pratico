@@ -1,0 +1,39 @@
+@page "/contatos/cadastro"
+@using Davinti___Teste_Pratico.Domain
+@model Davinti___Teste_Pratico.Pages.Cadastro
+
+@{
+    Layout = "Shared/_Layout";
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <title>Cadastrar novo contato</title>
+</head>
+<body>
+<div>
+    <h1>Cadastrar Novo Contato</h1>
+    
+    <form method="post">
+        <input class="form-control" required="required" placeholder="Nome do contato" asp-for="contato.Nome">
+        <br/>
+        <input class="form-control" required="required" placeholder="Idade do contato" asp-for="contato.Idade">
+        <br/>
+        <h4>Telefones</h4>
+        @for (int i = 0; i < Model.contato.Telefones.Count; i++)
+        {
+            <div class="form-group">
+                <input class="form-control" asp-for="@Model.contato.Telefones[@i].NumeroContato" placeholder="Telefone" />
+            </div>
+        }
+
+        <br />
+        <button type="submit" asp-page-handler="AddTelefone" class="btn btn-secondary">+ Adicionar Telefone</button>
+        <button type="submit" asp-page-handler="Salvar" class="btn btn-primary">Salvar</button>
+    </form>
+    
+</div>
+</body>
+</html>

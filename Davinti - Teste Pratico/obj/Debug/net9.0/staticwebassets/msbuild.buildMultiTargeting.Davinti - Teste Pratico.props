@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/Davinti - Teste Pratico.props" />
+</Project>

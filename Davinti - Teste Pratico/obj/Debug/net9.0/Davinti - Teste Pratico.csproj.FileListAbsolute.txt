@@ -1,0 +1,101 @@
+/home/bernardo/RiderProjects/Davinti - Teste Pratico/Davinti - Teste Pratico/bin/Debug/net9.0/appsettings.Development.json
+/home/bernardo/RiderProjects/Davinti - Teste Pratico/Davinti - Teste Pratico/bin/Debug/net9.0/appsettings.json
+/home/bernardo/RiderProjects/Davinti - Teste Pratico/Davinti - Teste Pratico/bin/Debug/net9.0/Davinti - Teste Pratico.staticwebassets.runtime.json
+/home/bernardo/RiderProjects/Davinti - Teste Pratico/Davinti - Teste Pratico/bin/Debug/net9.0/Davinti - Teste Pratico.staticwebassets.endpoints.json
+/home/bernardo/RiderProjects/Davinti - Teste Pratico/Davinti - Teste Pratico/bin/Debug/net9.0/Davinti - Teste Pratico
+/home/bernardo/RiderProjects/Davinti - Teste Pratico/Davinti - Teste Pratico/bin/Debug/net9.0/Davinti - Teste Pratico.deps.json
+/home/bernardo/RiderProjects/Davinti - Teste Pratico/Davinti - Teste Pratico/bin/Debug/net9.0/Davinti - Teste Pratico.runtimeconfig.json
+/home/bernardo/RiderProjects/Davinti - Teste Pratico/Davinti - Teste Pratico/bin/Debug/net9.0/Davinti - Teste Pratico.dll
+/home/bernardo/RiderProjects/Davinti - Teste Pratico/Davinti - Teste Pratico/bin/Debug/net9.0/Davinti - Teste Pratico.pdb
+/home/bernardo/RiderProjects/Davinti - Teste Pratico/Davinti - Teste Pratico/bin/Debug/net9.0/Dapper.dll
+/home/bernardo/RiderProjects/Davinti - Teste Pratico/Davinti - Teste Pratico/obj/Debug/net9.0/Davinti - Teste Pratico.csproj.AssemblyReference.cache
+/home/bernardo/RiderProjects/Davinti - Teste Pratico/Davinti - Teste Pratico/obj/Debug/net9.0/Davinti - Teste Pratico.GeneratedMSBuildEditorConfig.editorconfig
+/home/bernardo/RiderProjects/Davinti - Teste Pratico/Davinti - Teste Pratico/obj/Debug/net9.0/Davinti - Teste Pratico.AssemblyInfoInputs.cache
+/home/bernardo/RiderProjects/Davinti - Teste Pratico/Davinti - Teste Pratico/obj/Debug/net9.0/Davinti - Teste Pratico.AssemblyInfo.cs
+/home/bernardo/RiderProjects/Davinti - Teste Pratico/Davinti - Teste Pratico/obj/Debug/net9.0/Davinti - Teste Pratico.csproj.CoreCompileInputs.cache
+/home/bernardo/RiderProjects/Davinti - Teste Pratico/Davinti - Teste Pratico/obj/Debug/net9.0/Davinti - Teste Pratico.MvcApplicationPartsAssemblyInfo.cache
+/home/bernardo/RiderProjects/Davinti - Teste Pratico/Davinti - Teste Pratico/obj/Debug/net9.0/Davinti - Teste Pratico.RazorAssemblyInfo.cache
+/home/bernardo/RiderProjects/Davinti - Teste Pratico/Davinti - Teste Pratico/obj/Debug/net9.0/Davinti - Teste Pratico.RazorAssemblyInfo.cs
+/home/bernardo/RiderProjects/Davinti - Teste Pratico/Davinti - Teste Pratico/obj/Debug/net9.0/scopedcss/Pages/Shared/_Layout.cshtml.rz.scp.css
+/home/bernardo/RiderProjects/Davinti - Teste Pratico/Davinti - Teste Pratico/obj/Debug/net9.0/scopedcss/bundle/Davinti - Teste Pratico.styles.css
+/home/bernardo/RiderProjects/Davinti - Teste Pratico/Davinti - Teste Pratico/obj/Debug/net9.0/scopedcss/projectbundle/Davinti - Teste Pratico.bundle.scp.css
+/home/bernardo/RiderProjects/Davinti - Teste Pratico/Davinti - Teste Pratico/obj/Debug/net9.0/compressed/3jm11ndt9g-lugek5hnai.gz
+/home/bernardo/RiderProjects/Davinti - Teste Pratico/Davinti - Teste Pratico/obj/Debug/net9.0/compressed/txsgteijrw-61n19gt1b8.gz
+/home/bernardo/RiderProjects/Davinti - Teste Pratico/Davinti - Teste Pratico/obj/Debug/net9.0/compressed/es1st9zbm9-55ogmuwlfk.gz
+/home/bernardo/RiderProjects/Davinti - Teste Pratico/Davinti - Teste Pratico/obj/Debug/net9.0/compressed/9jabs417ju-bqjiyaj88i.gz
+/home/bernardo/RiderProjects/Davinti - Teste Pratico/Davinti - Teste Pratico/obj/Debug/net9.0/compressed/v2ks9ocew8-c2jlpeoesf.gz
+/home/bernardo/RiderProjects/Davinti - Teste Pratico/Davinti - Teste Pratico/obj/Debug/net9.0/compressed/v3pru1l7rc-erw9l3u2r3.gz
+/home/bernardo/RiderProjects/Davinti - Teste Pratico/Davinti - Teste Pratico/obj/Debug/net9.0/compressed/3yedde4wtn-aexeepp0ev.gz
+/home/bernardo/RiderProjects/Davinti - Teste Pratico/Davinti - Teste Pratico/obj/Debug/net9.0/compressed/ctv911wsk2-d7shbmvgxk.gz
+/home/bernardo/RiderProjects/Davinti - Teste Pratico/Davinti - Teste Pratico/obj/Debug/net9.0/compressed/4knl0jo8ra-ausgxo2sd3.gz
+/home/bernardo/RiderProjects/Davinti - Teste Pratico/Davinti - Teste Pratico/obj/Debug/net9.0/compressed/qy7lgtj4zt-k8d9w2qqmf.gz
+/home/bernardo/RiderProjects/Davinti - Teste Pratico/Davinti - Teste Pratico/obj/Debug/net9.0/compressed/dbjxeszeqv-cosvhxvwiu.gz
+/home/bernardo/RiderProjects/Davinti - Teste Pratico/Davinti - Teste Pratico/obj/Debug/net9.0/compressed/pozp8bgn2f-ub07r2b239.gz
+/home/bernardo/RiderProjects/Davinti - Teste Pratico/Davinti - Teste Pratico/obj/Debug/net9.0/compressed/ege1q2fqn2-fvhpjtyr6v.gz
+/home/bernardo/RiderProjects/Davinti - Teste Pratico/Davinti - Teste Pratico/obj/Debug/net9.0/compressed/3gcr30lopa-b7pk76d08c.gz
+/home/bernardo/RiderProjects/Davinti - Teste Pratico/Davinti - Teste Pratico/obj/Debug/net9.0/compressed/q8a976vocv-fsbi9cje9m.gz
+/home/bernardo/RiderProjects/Davinti - Teste Pratico/Davinti - Teste Pratico/obj/Debug/net9.0/compressed/1yxn0od684-rzd6atqjts.gz
+/home/bernardo/RiderProjects/Davinti - Teste Pratico/Davinti - Teste Pratico/obj/Debug/net9.0/compressed/iau1ps7syi-ee0r1s7dh0.gz
+/home/bernardo/RiderProjects/Davinti - Teste Pratico/Davinti - Teste Pratico/obj/Debug/net9.0/compressed/ycg6a4qlde-dxx9fxp4il.gz
+/home/bernardo/RiderProjects/Davinti - Teste Pratico/Davinti - Teste Pratico/obj/Debug/net9.0/compressed/79ygcrsdb3-jd9uben2k1.gz
+/home/bernardo/RiderProjects/Davinti - Teste Pratico/Davinti - Teste Pratico/obj/Debug/net9.0/compressed/q2q9c71t6d-khv3u5hwcm.gz
+/home/bernardo/RiderProjects/Davinti - Teste Pratico/Davinti - Teste Pratico/obj/Debug/net9.0/compressed/qeerrovxii-r4e9w2rdcm.gz
+/home/bernardo/RiderProjects/Davinti - Teste Pratico/Davinti - Teste Pratico/obj/Debug/net9.0/compressed/k7ff9avwr8-lcd1t2u6c8.gz
+/home/bernardo/RiderProjects/Davinti - Teste Pratico/Davinti - Teste Pratico/obj/Debug/net9.0/compressed/5kjq6kgyly-c2oey78nd0.gz
+/home/bernardo/RiderProjects/Davinti - Teste Pratico/Davinti - Teste Pratico/obj/Debug/net9.0/compressed/llmssne2zs-tdbxkamptv.gz
+/home/bernardo/RiderProjects/Davinti - Teste Pratico/Davinti - Teste Pratico/obj/Debug/net9.0/compressed/6g49ur1rfq-j5mq2jizvt.gz
+/home/bernardo/RiderProjects/Davinti - Teste Pratico/Davinti - Teste Pratico/obj/Debug/net9.0/compressed/b6jnrnfkqg-06098lyss8.gz
+/home/bernardo/RiderProjects/Davinti - Teste Pratico/Davinti - Teste Pratico/obj/Debug/net9.0/compressed/t97tdhz8zw-nvvlpmu67g.gz
+/home/bernardo/RiderProjects/Davinti - Teste Pratico/Davinti - Teste Pratico/obj/Debug/net9.0/compressed/690naehhoo-s35ty4nyc5.gz
+/home/bernardo/RiderProjects/Davinti - Teste Pratico/Davinti - Teste Pratico/obj/Debug/net9.0/compressed/s3vyxjpm40-pj5nd1wqec.gz
+/home/bernardo/RiderProjects/Davinti - Teste Pratico/Davinti - Teste Pratico/obj/Debug/net9.0/compressed/3myzrla61k-46ein0sx1k.gz
+/home/bernardo/RiderProjects/Davinti - Teste Pratico/Davinti - Teste Pratico/obj/Debug/net9.0/compressed/eqsfv9fgje-v0zj4ognzu.gz
+/home/bernardo/RiderProjects/Davinti - Teste Pratico/Davinti - Teste Pratico/obj/Debug/net9.0/compressed/0004xst89e-37tfw0ft22.gz
+/home/bernardo/RiderProjects/Davinti - Teste Pratico/Davinti - Teste Pratico/obj/Debug/net9.0/compressed/jes3keooai-hrwsygsryq.gz
+/home/bernardo/RiderProjects/Davinti - Teste Pratico/Davinti - Teste Pratico/obj/Debug/net9.0/compressed/zt2x83dcnb-pk9g2wxc8p.gz
+/home/bernardo/RiderProjects/Davinti - Teste Pratico/Davinti - Teste Pratico/obj/Debug/net9.0/compressed/2159zdh855-ft3s53vfgj.gz
+/home/bernardo/RiderProjects/Davinti - Teste Pratico/Davinti - Teste Pratico/obj/Debug/net9.0/compressed/6admgusrjs-6cfz1n2cew.gz
+/home/bernardo/RiderProjects/Davinti - Teste Pratico/Davinti - Teste Pratico/obj/Debug/net9.0/compressed/ba2z7dor5n-6pdc2jztkx.gz
+/home/bernardo/RiderProjects/Davinti - Teste Pratico/Davinti - Teste Pratico/obj/Debug/net9.0/compressed/vl8lb665mg-493y06b0oq.gz
+/home/bernardo/RiderProjects/Davinti - Teste Pratico/Davinti - Teste Pratico/obj/Debug/net9.0/compressed/1g5foahon2-iovd86k7lj.gz
+/home/bernardo/RiderProjects/Davinti - Teste Pratico/Davinti - Teste Pratico/obj/Debug/net9.0/compressed/f8vxdfvmbj-vr1egmr9el.gz
+/home/bernardo/RiderProjects/Davinti - Teste Pratico/Davinti - Teste Pratico/obj/Debug/net9.0/compressed/c32j3mxnjl-kbrnm935zg.gz
+/home/bernardo/RiderProjects/Davinti - Teste Pratico/Davinti - Teste Pratico/obj/Debug/net9.0/compressed/rqrt2hddjg-jj8uyg4cgr.gz
+/home/bernardo/RiderProjects/Davinti - Teste Pratico/Davinti - Teste Pratico/obj/Debug/net9.0/compressed/0lz9vkl7ky-y7v9cxd14o.gz
+/home/bernardo/RiderProjects/Davinti - Teste Pratico/Davinti - Teste Pratico/obj/Debug/net9.0/compressed/4y9336d1u2-notf2xhcfb.gz
+/home/bernardo/RiderProjects/Davinti - Teste Pratico/Davinti - Teste Pratico/obj/Debug/net9.0/compressed/xxmw85snzu-h1s4sie4z3.gz
+/home/bernardo/RiderProjects/Davinti - Teste Pratico/Davinti - Teste Pratico/obj/Debug/net9.0/compressed/xtor5tu5np-63fj8s7r0e.gz
+/home/bernardo/RiderProjects/Davinti - Teste Pratico/Davinti - Teste Pratico/obj/Debug/net9.0/compressed/ccph27bcip-0j3bgjxly4.gz
+/home/bernardo/RiderProjects/Davinti - Teste Pratico/Davinti - Teste Pratico/obj/Debug/net9.0/compressed/fzjbeezf3d-47otxtyo56.gz
+/home/bernardo/RiderProjects/Davinti - Teste Pratico/Davinti - Teste Pratico/obj/Debug/net9.0/compressed/x5m0n1u7zy-4v8eqarkd7.gz
+/home/bernardo/RiderProjects/Davinti - Teste Pratico/Davinti - Teste Pratico/obj/Debug/net9.0/compressed/3xz28un9m7-l3n5xuwxn8.gz
+/home/bernardo/RiderProjects/Davinti - Teste Pratico/Davinti - Teste Pratico/obj/Debug/net9.0/compressed/rkgqey1xxr-ilo7uva0vt.gz
+/home/bernardo/RiderProjects/Davinti - Teste Pratico/Davinti - Teste Pratico/obj/Debug/net9.0/compressed/m3qydfml9m-qlccset4i1.gz
+/home/bernardo/RiderProjects/Davinti - Teste Pratico/Davinti - Teste Pratico/obj/Debug/net9.0/compressed/ny0wesr6ol-lzl9nlhx6b.gz
+/home/bernardo/RiderProjects/Davinti - Teste Pratico/Davinti - Teste Pratico/obj/Debug/net9.0/compressed/1pxaij4y5u-ag7o75518u.gz
+/home/bernardo/RiderProjects/Davinti - Teste Pratico/Davinti - Teste Pratico/obj/Debug/net9.0/compressed/zzzhieinfb-xzw0cte36n.gz
+/home/bernardo/RiderProjects/Davinti - Teste Pratico/Davinti - Teste Pratico/obj/Debug/net9.0/compressed/w4eoylgw6e-0i3buxo5is.gz
+/home/bernardo/RiderProjects/Davinti - Teste Pratico/Davinti - Teste Pratico/obj/Debug/net9.0/compressed/bwhbcpe7sf-o1o13a6vjx.gz
+/home/bernardo/RiderProjects/Davinti - Teste Pratico/Davinti - Teste Pratico/obj/Debug/net9.0/compressed/v1e4j3bsfy-ttgo8qnofa.gz
+/home/bernardo/RiderProjects/Davinti - Teste Pratico/Davinti - Teste Pratico/obj/Debug/net9.0/compressed/qb27x10t1l-2z0ns9nrw6.gz
+/home/bernardo/RiderProjects/Davinti - Teste Pratico/Davinti - Teste Pratico/obj/Debug/net9.0/compressed/v88d1tb3uj-muycvpuwrr.gz
+/home/bernardo/RiderProjects/Davinti - Teste Pratico/Davinti - Teste Pratico/obj/Debug/net9.0/compressed/kmij72aepk-87fc7y1x7t.gz
+/home/bernardo/RiderProjects/Davinti - Teste Pratico/Davinti - Teste Pratico/obj/Debug/net9.0/compressed/d2wzv7wooc-jfsiqqwiad.gz
+/home/bernardo/RiderProjects/Davinti - Teste Pratico/Davinti - Teste Pratico/obj/Debug/net9.0/compressed/ud8zi1g2ft-a1ebgf8a37.gz
+/home/bernardo/RiderProjects/Davinti - Teste Pratico/Davinti - Teste Pratico/obj/Debug/net9.0/compressed/57lrm47p6c-a1ebgf8a37.gz
+/home/bernardo/RiderProjects/Davinti - Teste Pratico/Davinti - Teste Pratico/obj/Debug/net9.0/staticwebassets.build.json
+/home/bernardo/RiderProjects/Davinti - Teste Pratico/Davinti - Teste Pratico/obj/Debug/net9.0/staticwebassets.development.json
+/home/bernardo/RiderProjects/Davinti - Teste Pratico/Davinti - Teste Pratico/obj/Debug/net9.0/staticwebassets.build.endpoints.json
+/home/bernardo/RiderProjects/Davinti - Teste Pratico/Davinti - Teste Pratico/obj/Debug/net9.0/staticwebassets/msbuild.Davinti - Teste Pratico.Microsoft.AspNetCore.StaticWebAssets.props
+/home/bernardo/RiderProjects/Davinti - Teste Pratico/Davinti - Teste Pratico/obj/Debug/net9.0/staticwebassets/msbuild.Davinti - Teste Pratico.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+/home/bernardo/RiderProjects/Davinti - Teste Pratico/Davinti - Teste Pratico/obj/Debug/net9.0/staticwebassets/msbuild.build.Davinti - Teste Pratico.props
+/home/bernardo/RiderProjects/Davinti - Teste Pratico/Davinti - Teste Pratico/obj/Debug/net9.0/staticwebassets/msbuild.buildMultiTargeting.Davinti - Teste Pratico.props
+/home/bernardo/RiderProjects/Davinti - Teste Pratico/Davinti - Teste Pratico/obj/Debug/net9.0/staticwebassets/msbuild.buildTransitive.Davinti - Teste Pratico.props
+/home/bernardo/RiderProjects/Davinti - Teste Pratico/Davinti - Teste Pratico/obj/Debug/net9.0/staticwebassets.pack.json
+/home/bernardo/RiderProjects/Davinti - Teste Pratico/Davinti - Teste Pratico/obj/Debug/net9.0/Davinti .01E5319F.Up2Date
+/home/bernardo/RiderProjects/Davinti - Teste Pratico/Davinti - Teste Pratico/obj/Debug/net9.0/Davinti - Teste Pratico.dll
+/home/bernardo/RiderProjects/Davinti - Teste Pratico/Davinti - Teste Pratico/obj/Debug/net9.0/refint/Davinti - Teste Pratico.dll
+/home/bernardo/RiderProjects/Davinti - Teste Pratico/Davinti - Teste Pratico/obj/Debug/net9.0/Davinti - Teste Pratico.pdb
+/home/bernardo/RiderProjects/Davinti - Teste Pratico/Davinti - Teste Pratico/obj/Debug/net9.0/Davinti - Teste Pratico.genruntimeconfig.cache
+/home/bernardo/RiderProjects/Davinti - Teste Pratico/Davinti - Teste Pratico/obj/Debug/net9.0/ref/Davinti - Teste Pratico.dll
+/home/bernardo/RiderProjects/Davinti - Teste Pratico/Davinti - Teste Pratico/bin/Debug/net9.0/MySqlConnector.dll

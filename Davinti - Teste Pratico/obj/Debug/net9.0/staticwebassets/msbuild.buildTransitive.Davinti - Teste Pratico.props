@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../buildMultiTargeting/Davinti - Teste Pratico.props" />
+</Project>
