@@ -9,6 +9,8 @@ O teste não especificou nenhuma linguagem para o projeto, então tomei a liberd
 
 O arquivo de export do banco se encontra em /Sql/ dentro do diretório principal do projeto.
 
+Os arquivos de log são gravados em /Logs/ dentro do diretório principal do projeto.
+
 ## Dependências do Projeto:
 
 * Dapper 
